@@ -2,4 +2,4 @@
 
 | Fil | Bibliotek | Kildecommit | Publisert |
 |-----|-----------|-------------|-----------|
-| `compass.js` | `compass` | `20f98c129` | 2026-11-13 |
+| `compass.js` | `compass` | `e7098327b` | 2026-11-13 |
